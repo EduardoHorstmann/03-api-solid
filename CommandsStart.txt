@@ -1,0 +1,7 @@
+npm init -y //Iniciar o node
+npm i typescript @types/node tsx tsup -D //Instalar o type com o tsx executar o código ts no node e o tsup para converter o ts pra js (build)
+npx tsc --init // criar o tsconfig
+npm i fastify
+npm i dotenv
+npm i zod
+npm i eslint @rocketseat/eslint-config -D
