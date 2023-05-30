@@ -3,8 +3,8 @@ GymPass style app.
 
 ## RFs
 - [X] Deve ser possível se cadastrar;
-- [ ] Deve ser possível se autenticar;
-- [ ] Deve ser possível obter o perfil de um usuário logado;
+- [X] Deve ser possível se autenticar;
+- [X] Deve ser possível obter o perfil de um usuário logado;
 - [ ] Deve ser possível obter o número de check-ins realizado pelo usuário;
 - [ ] Deve ser possível o usuário obter seu histórico de check-ins;
 - [ ] Deve ser possível o usuário buscar academias próximas;
